@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLiteRecipe</string>
+    <string name="delete">Delete</string>
+    <string name="view_all">View All</string>
+    <string name="update">Update</string>
+    <string name="add_data">Add Data</string>
+    <string name="auto_generated">Auto Generated</string>
+    <string name="id">id</string>
+    <string name="salary">Salary</string>
+    <string name="position">Position</string>
+    <string name="name">Name</string>
+</resources>
